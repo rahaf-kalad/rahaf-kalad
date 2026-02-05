@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Rahaf 👋
 
-<!--
-**rahaf-kalad/rahaf-kalad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Interested in Python, Algorithms, and Problem Solving  
+🚀 Building projects to learn by doing
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Java
+- C++
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Algorithms Playground (Python) – practicing core algorithms
+- More coming soon...
+
+## 🌱 Currently Learning
+- Problem Solving
+- Clean Code
+- Software Design Basics
+
+## 📫 Contact
+- GitHub: https://github.com/rahaf-kalad
+- Linkedin: https://www.linkedin.com/in/rahaf-al-otaibi-0a7702374
