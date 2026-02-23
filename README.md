@@ -12,7 +12,7 @@
 - Git & GitHub
 
 ## 📂 Projects
-
+- MASM Signed & Unsigned Integer Demo
 - More coming soon...
 
 ## 🌱 Currently Learning
