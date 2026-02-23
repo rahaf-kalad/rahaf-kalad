@@ -12,7 +12,7 @@
 - Git & GitHub
 
 ## 📂 Projects
-- Algorithms Playground (Python) – practicing core algorithms
+
 - More coming soon...
 
 ## 🌱 Currently Learning
