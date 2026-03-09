@@ -13,6 +13,7 @@
 
 ## 📂 Projects
 - MASM Signed & Unsigned Integer Demo
+- Some simple gift ideas
 - More coming soon...
 
 ## 🌱 Currently Learning
